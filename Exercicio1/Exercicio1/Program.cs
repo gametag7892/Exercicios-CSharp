@@ -18,7 +18,7 @@ public class Produto
 
         set
         {
-            if (value > 0)
+            if (value >= 0)
             {
                 preco = value;
             }
@@ -46,4 +46,5 @@ public class Program
         p.ExibirDetalhes();
         p.Preco = -200;
     }
+
 }
