@@ -52,11 +52,9 @@ public class Program
         f.Cor = "Rosa";
         f.Habilidade = "Atravessar paredes";
 
-
         p1.Idade = 30;
         p1.Nome = "Joao";
         p1.Cargo = "Gerente";
-
 
         p2.Idade = 30;
         p2.Nome = "Daher";
@@ -65,7 +63,6 @@ public class Program
         p3.Idade = 30;
         p3.Nome = "Lino";
         p3.Cargo = "Estagiário";
-
 
         p1.Apresentar();
         p2.Apresentar();
@@ -77,8 +74,8 @@ public class Program
         p2.Salario();
         p3.Salario();
 
-
         f.GerarFantasma();
         f.Mover("Esquerda");
     }
+
 }
