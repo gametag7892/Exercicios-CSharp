@@ -1,4 +1,0 @@
-C:\Users\Eduardo\source\repos\AulaProgramacao\AulaProgramacao\obj\Debug\net8.0\AulaProgramacao.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Eduardo\source\repos\AulaProgramacao\AulaProgramacao\obj\Debug\net8.0\AulaProgramacao.AssemblyInfoInputs.cache
-C:\Users\Eduardo\source\repos\AulaProgramacao\AulaProgramacao\obj\Debug\net8.0\AulaProgramacao.AssemblyInfo.cs
-C:\Users\Eduardo\source\repos\AulaProgramacao\AulaProgramacao\obj\Debug\net8.0\AulaProgramacao.csproj.CoreCompileInputs.cache
