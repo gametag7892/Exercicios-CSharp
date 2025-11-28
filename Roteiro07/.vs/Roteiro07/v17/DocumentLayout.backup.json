@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro07\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B190E8D4-CABC-43FE-88DD-5C63C5BAE652}|Exercicio3\\Exercicio3.csproj|c:\\users\\eduardo\\source\\orientacao_a_objeto\\roteiro07\\exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B190E8D4-CABC-43FE-88DD-5C63C5BAE652}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635735AA-F749-4B62-BE5E-2695AF95B2B7}|Exercicio2\\Exercicio2.csproj|c:\\users\\eduardo\\source\\orientacao_a_objeto\\roteiro07\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635735AA-F749-4B62-BE5E-2695AF95B2B7}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E28537C-2D5A-40F1-9E4A-AB3F7351B851}|Exercicio1\\Exercicio1.csproj|c:\\users\\eduardo\\source\\orientacao_a_objeto\\roteiro07\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E28537C-2D5A-40F1-9E4A-AB3F7351B851}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -28,11 +36,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro07\\Exercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro07\\Exercicio3\\Program.cs",
+              "RelativeToolTip": "Exercicio3\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:36:46.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro07\\Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro07\\Exercicio2\\Program.cs",
+              "RelativeToolTip": "Exercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:18:30.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro07\\Exercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio1\\Program.cs",
               "ToolTip": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro07\\Exercicio1\\Program.cs",
               "RelativeToolTip": "Exercicio1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T08:08:55.921Z",
               "EditorCaption": ""

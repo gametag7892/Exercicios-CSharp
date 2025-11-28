@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|c:\\users\\eduardo\\source\\orientacao_a_objeto\\roteiro08\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|c:\\users\\eduardo\\source\\orientacao_a_objeto\\roteiro08\\exercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|c:\\users\\eduardo\\source\\orientacao_a_objeto\\roteiro08\\exercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|c:\\users\\eduardo\\source\\orientacao_a_objeto\\roteiro08\\exercicio1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|c:\\users\\eduardo\\source\\orientacao_a_objeto\\roteiro08\\exercicio1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|c:\\users\\eduardo\\source\\orientacao_a_objeto\\roteiro08\\exercicio1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|c:\\users\\eduardo\\source\\orientacao_a_objeto\\roteiro08\\exercicio1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|c:\\users\\eduardo\\source\\orientacao_a_objeto\\roteiro08\\exercicio1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|c:\\users\\eduardo\\source\\orientacao_a_objeto\\roteiro08\\exercicio1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB39FF2-C9AC-48A2-BDA3-0973B7DBD3FF}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +54,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicio1\\Program.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Program.cs",
-              "RelativeToolTip": "Exercicio1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Form4.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form4.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Form4.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form4.cs [Projeto]",
+              "RelativeToolTip": "Exercicio1\\Form4.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T08:09:22.299Z",
+              "WhenOpened": "2025-11-28T21:29:31.63Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form3.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Form3.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form3.cs [Projeto]",
+              "RelativeToolTip": "Exercicio1\\Form3.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:30:02.805Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form2.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form2.cs [Projeto]",
+              "RelativeToolTip": "Exercicio1\\Form2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:30:03.643Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form4.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Form4.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form4.cs",
+              "RelativeToolTip": "Exercicio1\\Form4.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:29:34.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form3.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Form3.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form3.cs",
+              "RelativeToolTip": "Exercicio1\\Form3.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:29:15.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form2.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form2.cs",
+              "RelativeToolTip": "Exercicio1\\Form2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:17:49.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Exercicio1\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:53:22.858Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\Orientacao_a_Objeto\\Roteiro08\\Exercicio1\\Form1.cs",
+              "RelativeToolTip": "Exercicio1\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:52:56.28Z",
               "EditorCaption": ""
             }
           ]
